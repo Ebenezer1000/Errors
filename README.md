@@ -16,6 +16,8 @@ They are different. This should never happen. A bet ticket cannot have different
     and backoffice bet ticket modal.
     
     If you also check the draw results on both the frontend and backoffice bet ticket, you will realize they are different. The frontend has draw result of 5 5 2 8 3, and the backoffice has a draw result of 1 3 6 5 6. How can this be? This needs to be fixed.
+    The Issue numbers on the frontend and backoffice is also different.
+    The Game type on the frontend needs to be Bull Bull not Bull 8. Bull 8 is the bet detail. And the backoffice Game type should be Bull Bull not All 5 Straight Joint.
 
 
 ![image](https://github.com/user-attachments/assets/fd20e181-a7ad-4215-bfc8-732d6c26d8fd)
