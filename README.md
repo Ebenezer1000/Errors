@@ -24,3 +24,5 @@ They are different. This should never happen. A bet ticket cannot have different
 ![image](https://github.com/user-attachments/assets/5210aacb-118a-4c7f-bf66-86dff92d5450)
 ![image](https://github.com/user-attachments/assets/28108710-197f-40ef-842f-e435fa1d8139)
 
+
+3.   
