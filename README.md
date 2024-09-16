@@ -15,7 +15,7 @@ They are different. This should never happen. A bet ticket cannot have different
     Then if you look at the backoffice bet ticket modal (2nd image), you see the Number of bet(s) is 384 instead of 1, the bet amount is 768 instaed of 2 and the bet details is 9,5,1|9,6,4,1|9,7,3,1|9,8,2,1|9,1 instead Bull 8, if you compare the frontend bet ticket modal 
     and backoffice bet ticket modal.
     
-    If you also check the draw results on both the frontend and backoffice bet ticket, you will realize they are different. The frontend has draw result of 5 5 2 8 3, and the backoffice has a draw result of 1 3 6 5 6. 
+    If you also check the draw results on both the frontend and backoffice bet ticket, you will realize they are different. The frontend has draw result of 5 5 2 8 3, and the backoffice has a draw result of 1 3 6 5 6. How can this be? This needs to be fixed.
 
 
 ![image](https://github.com/user-attachments/assets/fd20e181-a7ad-4215-bfc8-732d6c26d8fd)
