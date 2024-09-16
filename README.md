@@ -9,6 +9,10 @@
 - Backend Order ID - 861145480520240912
 They are different. This should never happen. A bet ticket cannot have different Bet Order ID at the frontend and backend.
 
+    Also when you look at the lottery bet record (3rd image) the username is roodev but in the bet ticket the username is Max.
+    Then check the odds column in the lottery record. It is supposed to display th prize odds not the bonus group.
+
 ![image](https://github.com/user-attachments/assets/fd20e181-a7ad-4215-bfc8-732d6c26d8fd)
 ![image](https://github.com/user-attachments/assets/5210aacb-118a-4c7f-bf66-86dff92d5450)
-![image](https://github.com/user-attachments/assets/31f5e223-d315-44ff-89bc-a10ed147d088)
+![image](https://github.com/user-attachments/assets/28108710-197f-40ef-842f-e435fa1d8139)
+
