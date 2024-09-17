@@ -51,10 +51,14 @@ And the logic to this game is add the first 5 numbers, them add the last 5 numbe
 First 5 = 9+3+1+8+7 = 28. Last 5 = 5+10+2+4+6 = 27. 
 
 So the sum for first 5 is 28 which is greater than the sum for the last 5 which is 27.
-
 And the display is to show which group has the larger number, which in this case is the first 5. So the display should have been first, not last.
 
+- 1378: 9 6 4 3 7 5 8 10 1 2. Again at the front or last, the system showed last.
 
+First 5 = 9+6+4+3+1 = 29. Last 5 = 5+8+10+1+2 = 26.
+
+So the sum for first 5 is 29 which is greater than the sum for the last 5 which is 26.
+And the display is to show which group has the larger number, which in this case is the first 5. So the display should have been first, not last.
 
 
 
