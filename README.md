@@ -27,7 +27,10 @@ They are different. This should never happen. A bet ticket cannot have different
 
 
 
-3.   ## Board Games
+3.   ## BOARD GAMES
+
+
+## PK 10 Board Game
 
 
 ![image](https://github.com/user-attachments/assets/a0c30e44-476a-445b-961d-d702c7b8d22f)
@@ -59,6 +62,13 @@ First 5 = 9+6+4+3+1 = 29. Last 5 = 5+8+10+1+2 = 26.
 
 So the sum for first 5 is 29 which is greater than the sum for the last 5 which is 26.
 And the display is to show which group has the larger number, which in this case is the first 5. So the display should have been first, not last.
+
+
+## 11x5 Board Game
+
+![image](https://github.com/user-attachments/assets/b6006379-efc1-4a62-9160-3a887a925acd)
+
+Again when you click on the bet confirm for PK10 Board game, it does not go through or it is not accepted. It just displays the loading sign and stops. But the bet is not accepted. 
 
 
 
