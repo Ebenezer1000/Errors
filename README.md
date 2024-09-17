@@ -39,6 +39,21 @@ When you click on the bet confirm for PK10 Board game, it does not go through or
 
 Also change the PK 10 Board game labels. Example forward is supposed to be First 5 and Back is supposed to be Last 5 etc.
 
+![image](https://github.com/user-attachments/assets/77c65fc6-ca4b-4ecd-8587-c6e05fee12fa)
+
+Now check the draw result pop up and recent draw history table. They are different. But the right thing is they need to be the same. Also look at the issue numbers for the draw results. While the pop up is on a issue number of 0049, the recent draw history is on 1380. No synchronization at all. 
+
+Also look at 1377 and 1378 issue numbers recent draw history.
+- 1377: 9 3 1 8 7 5 10 2 4 6. At the front or last, the system showed last. 
+And the logic to this game is add the first 5 numbers, them add the last 5 numbers of the draw.
+
+
+First 5 = 9+3+1+8+7 = 28. Last 5 = 5+10+2+4+6 = 27. 
+
+So the sum for first 5 is 28 which is greater than the sum for the last 5 which is 27.
+
+And the display is to show which group has the larger number, which in this case is the first 5. So the display should have been first, not last.
+
 
 
 
