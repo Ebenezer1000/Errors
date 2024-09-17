@@ -25,4 +25,29 @@ They are different. This should never happen. A bet ticket cannot have different
 ![image](https://github.com/user-attachments/assets/28108710-197f-40ef-842f-e435fa1d8139)
 
 
-3.   
+
+
+3.   ## Board Games
+
+
+![image](https://github.com/user-attachments/assets/a0c30e44-476a-445b-961d-d702c7b8d22f)
+
+When you click on the bet confirm for PK10 Board game, it does not go through or it is not accepted. It just displays the loading sign and stops. But the bet is not accepted. 
+
+
+![image](https://github.com/user-attachments/assets/f5d8ec6c-fade-4876-916e-56d2255d3875)
+
+Also change the PK 10 Board game labels. Example forward is supposed to be First 5 and Back is supposed to be Last 5 etc.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
